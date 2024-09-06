@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucca</h1>
-<h3 align="center">Data engineer and computer nerd</h3>
+<h3 align="center">Data engineer</h3>
 
 - 🔭 I’m currently working on **developing fraud-detection solutions on aws**
 
 - 🌱 I’m currently learning **low level development and malware analysis**
-
-- 📝 I regularly write articles on [havismat.xyz](havismat.xyz)
 
 - 💬 Ask me about **python, spark and aws**
 
