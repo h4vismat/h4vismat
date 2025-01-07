@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python, spark and aws**
 
-- 📫 How to reach me **luccagodooy@proton.me**
+- 📫 How to reach me **h4vismat@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
