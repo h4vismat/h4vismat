@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucca</h1>
+<h1 align="center">Hi 👋, I'm h4vismat</h1>
 <h3 align="center">Data engineer</h3>
 
 - 🔭 I’m currently working on **developing fraud-detection solutions on aws**
