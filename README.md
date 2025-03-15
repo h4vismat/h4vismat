@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm h4vismat</h1>
-<h3 align="center">Data engineer</h3>
 
-- 🔭 I’m currently working on **developing fraud-detection solutions on aws**
+- 🔭 I’m currently working on **building privacy-focused wallets**
 
-- 🌱 I’m currently learning **low level development and malware analysis**
-
-- 💬 Ask me about **python, spark and aws**
+- 💬 Ask me about **bitcoin, aws, privacy**
 
 - 📫 How to reach me **h4vismat@pm.me**
 
