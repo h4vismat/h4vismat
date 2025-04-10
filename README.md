@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm h4vismat</h1>
 <h3 align="center">developing bitcoin solutions at mooze</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h4vismat" alt="h4vismat" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/h4vismat" target="blank"><img src="https://img.shields.io/twitter/follow/h4vismat?logo=twitter&style=for-the-badge" alt="h4vismat" /></a> </p>
 
 - 🔭 I’m currently working on [mooze](github.com/mooze-labs)
