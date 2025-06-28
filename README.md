@@ -3,11 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/h4vismat" target="blank"><img src="https://img.shields.io/twitter/follow/h4vismat?logo=twitter&style=for-the-badge" alt="h4vismat" /></a> </p>
 
-- 🔭 I’m currently working on [mooze](https://github.com/mooze-labs)
 
 - 👯 I’m looking to collaborate on **open source privacy and blockchain projects**
-
-- 🤝 I’m looking for help with **flutter lol**
 
 - 💬 Ask me about **bitcoin, rust**
 
