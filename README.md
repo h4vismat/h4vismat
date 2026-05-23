@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **bitcoin, rust**
 
+- 📊 Check my work at the links above
+
 - 📫 How to reach me **h4vismat@pm.me**
 
 <h3 align="left">Connect with me:</h3>
