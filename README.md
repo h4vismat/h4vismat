@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm h4vismat</h1>
-<h3 align="center"><a href=https://github.com/bithoundhq/bithound>building bithound</a></h3>
+<h3 align="center"><a href=https://github.com/bithoundhq/bithound>core @ bithound</a></h3>
+<h3 align="center"><a href=https://github.com/mooze-labs/>lead developer @ mooze</a></h3>
 
 <p align="left"> <a href="https://twitter.com/h4vismat" target="blank"><img src="https://img.shields.io/twitter/follow/h4vismat?logo=twitter&style=for-the-badge" alt="h4vismat" /></a> </p>
 
