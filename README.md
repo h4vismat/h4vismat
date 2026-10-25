@@ -1,28 +1,27 @@
-<h1 align="center">Hi 👋, I'm h4vismat</h1>
-<h3 align="center"><a href=https://github.com/bithoundhq/bithound>creator @ bithound</a></h3>
-<h3 align="center"><a href=https://github.com/mooze-labs/>lead developer @ mooze</a></h3>
+# Hi, I'm h4vismat.
 
-<p align="left"> <a href="https://twitter.com/h4vismat" target="blank"><img src="https://img.shields.io/twitter/follow/h4vismat?logo=twitter&style=for-the-badge" alt="h4vismat" /></a> </p>
+I'm a software engineer focused on **systems programming, distributed systems, and financial infrastructure**.
 
+I currently lead engineering at [Mooze](https://github.com/mooze-labs), where I work on financial infrastructure connecting Brazil's Pix payment network with Bitcoin, Lightning, and Liquid. My work spans backend architecture, payment orchestration, reliability, and fraud prevention, primarily using Rust.
 
-- 👯 I’m looking to collaborate on **open source privacy and blockchain projects**
+Previously, I've worked on cloud infrastructure, data engineering, and backend systems using Python, AWS, and other technologies.
 
-- 💬 Ask me about **bitcoin, rust**
+I'm particularly interested in understanding how software works beneath its abstractions — from memory management and operating systems to compilers, protocols, and distributed computing.
 
-- 📊 Check my work at the links above
+## Open source & projects
 
-- 📫 How to reach me **h4vismat@pm.me**
+- **[Oxide Club](https://oxideclub.dev)** — An independent computer science community exploring computing systems through hands-on laboratories, technical challenges, and experiments.
+- **[nigiri-rs](https://github.com/h4vismat/nigiri-rs)** — A Rust testing framework for Bitcoin, Lightning, and Liquid applications.
+- **[Lugus](https://github.com/h4vismat/lugus)** — An agent-assisted financial research desktop application built with Rust and Tauri, featuring modular financial data providers, portfolio analytics, and evidence-backed research.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/h4vismat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h4vismat" height="30" width="40" /></a>
-</p>
+## Technical interests
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- **Systems programming:** Rust, C, Linux, memory management, concurrency, and performance.
+- **Distributed systems:** Fault tolerance, messaging, consistency, observability, and system architecture.
+- **Bitcoin & payments:** Bitcoin, Lightning Network, Liquid, payment protocols, and financial infrastructure.
+- **Computer science:** Compilers, operating systems, computer architecture, and algorithms.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h4vismat&show_icons=true&locale=en&layout=compact" alt="h4vismat" /></p>
+## Get in touch
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h4vismat&show_icons=true&locale=en" alt="h4vismat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h4vismat&" alt="h4vismat" /></p>
+- **Email:** [h4vismat@pm.me](mailto:h4vismat@pm.me)
+- **X:** [@h4vismat](https://x.com/h4vismat)
