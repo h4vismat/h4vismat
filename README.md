@@ -1,4 +1,4 @@
-# Lucca Godoy · h4vismat
+# h4vismat
 
 Software engineer focused on **Rust backend development, distributed systems, and financial infrastructure**.
 
