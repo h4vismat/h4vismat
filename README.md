@@ -1,27 +1,32 @@
-# Hi, I'm h4vismat.
+# Lucca Godoy · h4vismat
 
-I'm a software engineer focused on **systems programming, distributed systems, and financial infrastructure**.
+Software engineer focused on **Rust backend development, distributed systems, and financial infrastructure**.
 
-I currently lead engineering at [Mooze](https://github.com/mooze-labs), where I work on financial infrastructure connecting Brazil's Pix payment network with Bitcoin, Lightning, and Liquid. My work spans backend architecture, payment orchestration, reliability, and fraud prevention, primarily using Rust.
+I lead engineering at [Mooze](https://github.com/mooze-labs), where I joined as the company's first employee and first technical hire. I build backend services connecting Brazil's Pix payment network with Bitcoin, and lead team members while remaining hands-on in architecture and implementation.
 
-Previously, I've worked on cloud infrastructure, data engineering, and backend systems using Python, AWS, and other technologies.
+My work spans wallet infrastructure, payment orchestration, persistence, observability, and operational reliability. I also contribute to product direction: I proposed expanding Mooze's original chat-based Bitcoin sales concept into a wallet and broader financial platform.
 
-I'm particularly interested in understanding how software works beneath its abstractions — from memory management and operating systems to compilers, protocols, and distributed computing.
+Previously, I worked on Python and Spark data pipelines, OCR-based fraud detection workflows, and cloud infrastructure on AWS and Azure.
 
-## Open source & projects
+## Selected projects
 
-- **[Oxide Club](https://oxideclub.dev)** — An independent computer science community exploring computing systems through hands-on laboratories, technical challenges, and experiments.
-- **[nigiri-rs](https://github.com/h4vismat/nigiri-rs)** — A Rust testing framework for Bitcoin, Lightning, and Liquid applications.
-- **[Lugus](https://github.com/h4vismat/lugus)** — An agent-assisted financial research desktop application built with Rust and Tauri, featuring modular financial data providers, portfolio analytics, and evidence-backed research.
+- **[Duovium](https://github.com/h4vismat/duovium)** — Functional CQRS and event-sourcing primitives for Rust. Separates deterministic domain decisions from persistence, with an optional PostgreSQL adapter and transactional projection processing. [crates.io](https://crates.io/crates/duovium)
+- **[nigiri-rs](https://github.com/h4vismat/nigiri-rs)** — Typed Bitcoin, Liquid, and Lightning clients with optional Docker-backed regtest fixtures for Rust integration tests. An independent project, unaffiliated with the original Nigiri project. [crates.io](https://crates.io/crates/nigiri-rs)
+- **[Lugus](https://github.com/h4vismat/lugus)** — An alpha financial research desktop application built with Rust and Tauri. Combines agent-assisted research, modular data providers, local evidence storage, and portfolio accounting. Not ready for production use.
 
-## Technical interests
+## Community
 
-- **Systems programming:** Rust, C, Linux, memory management, concurrency, and performance.
-- **Distributed systems:** Fault tolerance, messaging, consistency, observability, and system architecture.
-- **Bitcoin & payments:** Bitcoin, Lightning Network, Liquid, payment protocols, and financial infrastructure.
-- **Computer science:** Compilers, operating systems, computer architecture, and algorithms.
+I contribute to **[Oxide Club](https://oxideclub.dev)**, an independent computer science community exploring C, Rust, memory, operating systems, and computer architecture through hands-on laboratories and technical challenges.
 
-## Get in touch
+## Technologies
 
-- **Email:** [h4vismat@pm.me](mailto:h4vismat@pm.me)
-- **X:** [@h4vismat](https://x.com/h4vismat)
+- **Backend:** Rust, Tokio, Axum, PostgreSQL, Redis.
+- **Data engineering:** Python, Spark/PySpark, AWS Glue, Athena, Redshift.
+- **Infrastructure:** AWS, Azure, Terraform/OpenTofu, Linux.
+- **Financial integrations:** Pix, Bitcoin, Lightning, Liquid.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/luccagodoy/)
+- [Email](mailto:h4vismat@pm.me)
+- [X / @h4vismat](https://x.com/h4vismat)
